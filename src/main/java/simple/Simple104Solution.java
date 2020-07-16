@@ -61,7 +61,7 @@ public class Simple104Solution {
     /**
      * DFS迭代实现二叉树最大深度
      * 时间复杂度O(n)
-     * 空间复杂度:线性表最差O(n)、二叉树完全平衡最好O(logn)
+     * 空间复杂度:O(n)
      *
      * @param root 根节点
      * @return 最大深度
@@ -95,7 +95,7 @@ public class Simple104Solution {
     /**
      * BFS迭代实现二叉树最大深度
      * 时间复杂度O(n)
-     * 空间复杂度:线性表最差O(n)、二叉树完全平衡最好O(logn)
+     * 空间复杂度:O(n)
      *
      * @param root 根节点
      * @return 最大深度
